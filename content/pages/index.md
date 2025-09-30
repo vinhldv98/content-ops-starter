@@ -7,7 +7,7 @@ sections:
       text: Phương thức hành động của LG Kinh doanh chính đạo
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Kinh doanh chính đạo là phương thức hành động độc đáo của riêng Khiêm Hạ
       nhằm liên tục phát triển các kỹ năng dựa trên nền tảng quản lý đạo đức và
