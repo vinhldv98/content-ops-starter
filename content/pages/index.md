@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Phương thức hành động của LG Kinh doanh chính đạo
+      text: Phương thức hành động của Khiêm Hạ - Kinh doanh chính đạo
       color: text-dark
       type: TitleBlock
     subtitle: ''
