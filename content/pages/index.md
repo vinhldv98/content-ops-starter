@@ -9,9 +9,14 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Kinh doanh chính đạo là phương thức hành động độc đáo của riêng Khiêm Hạ
+      nhằm liên tục phát triển các kỹ năng dựa trên nền tảng quản lý đạo đức và
+      cạnh tranh công bằng. Tiến thêm một bước từ kinh doanh có đạo đức, mục
+      tiêu của ban lãnh đạo là tạo ra thành quả thực chất trên nền tảng năng lực
+      thực tế để có thể chiến thắng trong các cuộc cạnh tranh. Tinh thần ‘Kinh
+      doanh chính đạo’ thuần túy là việc dốc toàn lực để nâng cao khả năng cạnh
+      tranh nội tại của doanh nghiệp đồng thời bảo vệ danh dự và niềm tự hào của
+      con người Khiêm Hạ.
     actions:
       - label: Get started
         altText: ''
